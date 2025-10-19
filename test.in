@@ -1,0 +1,5 @@
+SET a 10
+SET b 20
+GET a
+GET b
+EXIT
