@@ -2,8 +2,8 @@
 
 **Author:** Karunya Mekala  
 **EUID:** KarunyaMekala@my.unt.edu  
-**Course:** CSCE [Your Course Number Here, e.g., 4650/5650]  
-**Project:** Final Project 1 Submission  
+**Course:** CSCE5350  
+**Project:** Project 1 Submission  
 **Tag:** `project-1`
 
 ---
