@@ -1,7 +1,7 @@
 # Build a Database: Part 1 — The Simple Key-Value Store
 
 **Author:** Karunya Mekala  
-**EUID:** KarunyaMekala@my.unt.edu  
+**EUID:** 11818036 
 **Course:** CSCE5350  
 **Project:** Project 1 Submission  
 **Tag:** `project-1`
